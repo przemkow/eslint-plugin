@@ -41,7 +41,7 @@
     "standard-version": "^9.1.0"
   },
   "peerDependencies": {
-    "eslint": "^7.16.0",
+    "eslint": "^7.16.0 || ^9.0.0",
     "prettier": "^2.2.1"
   },
   "husky": {
